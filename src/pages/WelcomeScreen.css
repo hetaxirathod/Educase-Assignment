@@ -1,0 +1,66 @@
+.container {
+  background-color: #f7f8f9;
+  width: 375px;
+  height: 812px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  padding-bottom: 40px;
+  font-family: Arial, sans-serif;
+  justify-self: center;
+}
+
+.content {
+  width: 100%;
+  padding: 0 20px;
+  text-align: center;
+  justify-self: center;
+}
+
+.heading {
+left: 20px;
+top: 549px;
+width: 231px;
+height: 33px;
+font: normal normal normal 18px/26px Rubik;
+  font-size: 28px;
+  font-weight: bold;
+  color: #1D2226;
+  margin-bottom: 8px;
+}
+
+.subText {top: 592px;
+left: 20px;
+width: 232px;
+height: 48px;
+text-align: left;
+font: normal normal normal 18px/26px Rubik;
+  font-size: 18px;
+  color: #1D2226;
+  margin-bottom: 30px;
+}
+
+.createBtn {
+  width: 100%;
+  padding: 12px;
+  font: normal normal medium 16px/17px Rubik;
+  background-color: #6c25ff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.loginBtn {
+  width: 100%;
+  padding: 12px;
+  background-color: transparent;
+  font: normal normal medium 16px/17px Rubik;
+  border: 2px solid #6c25ff;
+  color: #1D2226;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+}
